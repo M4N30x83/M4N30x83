@@ -16,8 +16,9 @@
 
 ### 🔗 Connect with Me
 
-[![Instagram](https://img.shields.io/badge/@your_ig_handle-black?style=flat&logo=instagram)](https://instagram.com/your_ig_handle)
-[![Telegram](https://img.shields.io/badge/Telegram-darkblue?style=flat&logo=telegram)](https://t.me/your_username)
+[![Instagram](https://img.shields.io/badge/@your_ig_handle-black?style=flat&logo=instagram)](https://instagram.com/is.shagihh)
+[![Telegram](https://img.shields.io/badge/Telegram-darkblue?style=flat&logo=telegram)](https://t.me/xploutdamn)
+[![Instagram](https://img.shields.io/badge/@your_ig_handle-black?style=flat&logo=instagram)](https://instagram.com/damnxploit)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github)](https://github.com/M4N30x83)
 
 ---
